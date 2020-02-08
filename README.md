@@ -3,9 +3,9 @@
 ## Requirements :
 
 Install plantcv and requirements :
-'''bash
+```bash
 pip install plantcv
 pip install -r requirements.txt
-'''
+
 
 https://github.com/danforthcenter/plantcv
